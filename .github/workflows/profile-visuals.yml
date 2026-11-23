@@ -1,0 +1,50 @@
+name: Profile visuals
+
+# Regenerates the 3D contribution calendar and the contribution snake.
+# Output is force-pushed to the separate `output` branch, so `main` keeps a clean history.
+on:
+  schedule:
+    - cron: "17 21 * * *" # daily, 00:17 Amman time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-visuals.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile-3d-contrib/snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#2e1065,#5b21b6,#8b5cf6,#c4b5fd
+            profile-3d-contrib/snake-light.svg?color_snake=#7c3aed&color_dots=#ebedf0,#ddd6fe,#a78bfa,#7c3aed,#4c1d95
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          keep_history: false
+          jekyll: false
+          commit_message: "chore: update profile visuals"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
