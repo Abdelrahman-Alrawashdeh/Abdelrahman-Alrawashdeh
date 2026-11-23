@@ -1,60 +1,56 @@
+<!--
+  Abdelrahman Alrawashdeh — GitHub profile
+  Every visual is a hand-built, theme-aware SVG (dark + light) in /assets.
+  The 3D contribution calendar is regenerated daily by .github/workflows/profile-visuals.yml
+  and published to the `output` branch, so `main` keeps a clean history.
+-->
+
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Abdelrahman Alrawashdeh — Cybersecurity Engineer and Founder of Sufrti">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Cybersecurity Engineer and Founder of Sufrti"></picture>
 </p>
 
 <p align="center">
-  <img src="assets/about-terminal.svg" width="100%" alt="whoami: Abdelrahman Alrawashdeh. B.Sc. Cybersecurity, Yarmouk University (2021–2026). Founder and sole developer of Sufrti since 2025. Focus: secure web apps, full-stack, CI/CD and self-hosted infrastructure.">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg"><img src="assets/highlights-dark.svg" width="100%" alt="Highlights: B.Sc. Cybersecurity 2026, Founder of Sufrti since 2025, 2 production websites, zero-cost self-hosted CI/CD"></picture>
 </p>
-
-<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,docker,linux,bash,powershell,git,github,githubactions,cloudflare,vscode&perline=7&theme=dark" alt="HTML, CSS, JavaScript, Python, Node.js, Docker, Linux, Bash, PowerShell, Git, GitHub, GitHub Actions, Cloudflare, VS Code">
-  </a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/capabilities-light.svg"><img src="assets/capabilities-dark.svg" width="100%" alt="Capabilities: Security, Engineering, Operations"></picture>
 </p>
 
-<h2 align="center">Featured Projects</h2>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" width="100%" alt="Technology: JavaScript, Python, HTML5, CSS3, Bash, PowerShell, Node.js, Linux, Docker, Cloudflare Workers, WSL, Git, GitHub Actions, Playwright, FFmpeg, Pillow, VS Code"></picture>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Abdelrahman-Alrawashdeh/al-moallem-driving-center">
-        <img src="assets/project-al-moallem.svg" width="100%" alt="Al-Moallem Driving Center">
-      </a>
-      <br>
-      <a href="https://almoallem.centerjo.workers.dev/"><b>Live site</b></a> &nbsp;·&nbsp;
-      <a href="https://github.com/Abdelrahman-Alrawashdeh/al-moallem-driving-center"><b>Source</b></a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Abdelrahman-Alrawashdeh/alshubbak-alfalastini">
-        <img src="assets/project-alshubbak.svg" width="100%" alt="Al-Shubbak Al-Falastini">
-      </a>
-      <br>
-      <a href="https://alshubbak-alfalastini.alshubbakalfalastini.workers.dev/"><b>Live site</b></a> &nbsp;·&nbsp;
-      <a href="https://github.com/Abdelrahman-Alrawashdeh/alshubbak-alfalastini"><b>Source</b></a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/title-work-light.svg"><img src="assets/title-work-dark.svg" width="100%" alt="Selected work"></picture>
+</p>
 
-<h2 align="center">Contribution Galaxy</h2>
+<p align="center">
+  <a href="https://github.com/Abdelrahman-Alrawashdeh/al-moallem-driving-center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-al-moallem-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-al-moallem-light.svg"><img src="assets/work-al-moallem-dark.svg" width="49%" alt="Al-Moallem Driving Center"></picture></a>
+  <a href="https://github.com/Abdelrahman-Alrawashdeh/alshubbak-alfalastini"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-alshubbak-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-alshubbak-light.svg"><img src="assets/work-alshubbak-dark.svg" width="49%" alt="Al-Shubbak Al-Falastini"></picture></a>
+</p>
+
+<p align="center">
+  <sub>
+    <b>Live:</b>
+    <a href="https://almoallem.centerjo.workers.dev/">almoallem.centerjo.workers.dev</a>
+    &nbsp;·&nbsp;
+    <a href="https://alshubbak-alfalastini.alshubbakalfalastini.workers.dev/">alshubbak-alfalastini.workers.dev</a>
+  </sub>
+</p>
+
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/title-activity-light.svg"><img src="assets/title-activity-dark.svg" width="100%" alt="Activity"></picture>
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/profile-night-view.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/profile-green-animate.svg">
-    <img src="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar">
+    <img src="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/profile-night-view.svg" width="100%" alt="3D contribution calendar">
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/snake-light.svg">
-    <img src="https://raw.githubusercontent.com/Abdelrahman-Alrawashdeh/Abdelrahman-Alrawashdeh/output/snake-dark.svg" width="100%" alt="Contribution snake">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for visiting">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Cybersecurity Engineer, Founder of Sufrti"></picture>
 </p>
