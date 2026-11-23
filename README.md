@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+  <a href="https://sufrti.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-sufrti-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-sufrti-light.svg"><img src="assets/work-sufrti-dark.svg" width="100%" alt="Sufrti — restaurant and café management platform"></picture></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Abdelrahman-Alrawashdeh/cyber-eye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-cyber-eye-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-cyber-eye-light.svg"><img src="assets/work-cyber-eye-dark.svg" width="100%" alt="Cyber Eye — rule-based intrusion detection platform"></picture></a>
 </p>
 
@@ -37,6 +41,8 @@
 <p align="center">
   <sub>
     <b>Live:</b>
+    <a href="https://sufrti.com">sufrti.com</a>
+    &nbsp;·&nbsp;
     <a href="https://cyber-eye.abdstpro.workers.dev/">cyber-eye.abdstpro.workers.dev</a>
     &nbsp;·&nbsp;
     <a href="https://almoallem.centerjo.workers.dev/">almoallem.centerjo.workers.dev</a>
