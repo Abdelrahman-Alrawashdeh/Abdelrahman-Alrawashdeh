@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg"><img src="assets/highlights-dark.svg" width="100%" alt="Highlights: Founder of Sufrti since 2025, 2 production websites, zero-cost self-hosted CI/CD, B.Sc. Cybersecurity 2026"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg"><img src="assets/highlights-dark.svg" width="100%" alt="Highlights: Founder of Sufrti since 2025, 3 live projects, zero-cost self-hosted CI/CD, B.Sc. Cybersecurity 2026"></picture>
 </p>
 
 <p align="center">
@@ -18,11 +18,15 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" width="100%" alt="Technology: JavaScript, Python, HTML5, CSS3, Bash, PowerShell, Node.js, Linux, Docker, Cloudflare Workers, WSL, Git, GitHub Actions, Playwright, FFmpeg, Pillow, VS Code"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" width="100%" alt="Technology: JavaScript, Python, HTML5, CSS3, Bash, PowerShell, Node.js, Linux, Docker, Cloudflare Workers, WSL, Suricata, T-Pot, Elastic Stack, Grafana, Kibana, FortiGate, Git, GitHub Actions, Playwright, FFmpeg, Pillow, VS Code"></picture>
 </p>
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/title-work-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/title-work-light.svg"><img src="assets/title-work-dark.svg" width="100%" alt="Selected work"></picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abdelrahman-Alrawashdeh/cyber-eye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-cyber-eye-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/work-cyber-eye-light.svg"><img src="assets/work-cyber-eye-dark.svg" width="100%" alt="Cyber Eye — rule-based intrusion detection platform"></picture></a>
 </p>
 
 <p align="center">
@@ -33,6 +37,8 @@
 <p align="center">
   <sub>
     <b>Live:</b>
+    <a href="https://cyber-eye.abdstpro.workers.dev/">cyber-eye.abdstpro.workers.dev</a>
+    &nbsp;·&nbsp;
     <a href="https://almoallem.centerjo.workers.dev/">almoallem.centerjo.workers.dev</a>
     &nbsp;·&nbsp;
     <a href="https://alshubbak-alfalastini.alshubbakalfalastini.workers.dev/">alshubbak-alfalastini.workers.dev</a>
