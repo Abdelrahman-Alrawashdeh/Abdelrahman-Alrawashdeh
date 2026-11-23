@@ -6,15 +6,15 @@
 -->
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Cybersecurity Engineer and Founder of Sufrti"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img src="assets/hero-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Full-Stack Engineer, Cybersecurity, Founder of Sufrti"></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg"><img src="assets/highlights-dark.svg" width="100%" alt="Highlights: B.Sc. Cybersecurity 2026, Founder of Sufrti since 2025, 2 production websites, zero-cost self-hosted CI/CD"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/highlights-light.svg"><img src="assets/highlights-dark.svg" width="100%" alt="Highlights: Founder of Sufrti since 2025, 2 production websites, zero-cost self-hosted CI/CD, B.Sc. Cybersecurity 2026"></picture>
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/capabilities-light.svg"><img src="assets/capabilities-dark.svg" width="100%" alt="Capabilities: Security, Engineering, Operations"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/capabilities-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/capabilities-light.svg"><img src="assets/capabilities-dark.svg" width="100%" alt="Capabilities: Full-Stack Engineering, Security by Design, Operations"></picture>
 </p>
 
 <p align="center">
@@ -52,5 +52,5 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Cybersecurity Engineer, Founder of Sufrti"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer-dark.svg" width="100%" alt="Abdelrahman Alrawashdeh — Full-Stack Engineer, Cybersecurity, Founder of Sufrti"></picture>
 </p>
